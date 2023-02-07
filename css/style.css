@@ -725,6 +725,15 @@ img {
 
 /*media queries*/
 
+@media screen and (max-width: 568px){
+    .home__container{
+        margin-left: var(--mb-1-5);
+        margin-right: var(--mb-1-5);
+    }
+    
+}
+
+
 @media screen and (min-width:568px) {
     .home__content {
         grid-template-columns: max-content 1fr 1fr;
