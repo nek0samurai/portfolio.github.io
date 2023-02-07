@@ -547,6 +547,10 @@ img {
     transform: translateX(.25rem);
 }
 
+.swiper{
+    height: 400px;
+}
+
 .swiper-button-prev::after,
 .swiper-button-next::after {
     display: none;
