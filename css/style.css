@@ -243,6 +243,7 @@ img {
 
 .home__container {
     gap: 1rem;
+    margin: 0 auto;
 }
 
 .home__content {
